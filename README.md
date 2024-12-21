@@ -100,10 +100,6 @@ Through comprehensive analysis, the project reveals critical insights:
     
   - `date_time_min.pbix`: Power BI folder.
 
-
-  
-    - `sql_script_all`: extra sql files.
-
 - `presentation/`:  Folder to store PDF presentations.
 - `README.md`: File to describe the project and how to set it up.
 
