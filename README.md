@@ -83,38 +83,29 @@ Through comprehensive analysis, the project reveals critical insights:
 
 ## Project Structure 📁
 
-- `clean_data/`:
-    - `cleaning.ipynb`: Jupyther Notebook created to clean data.
-    - `cleaning_celia.ipynb`: Jupyther Notebook created to clean data.
-    - `mental_health_cleaning.ipynb`: Jupyther Notebook created to clean data.
-    - `mental_health_symptoms_clean.csv`
-    - `mental_health_therapy_clean.csv`
-    - `patients.csv`
-    - `sleep_lifestyle_clean.csv`
-- `data_queries/`: csv created with sql queries to our visualization
-    - `data_queries_ana`: data.
-    - `data_queries_carlota`: data.
-    - `data_queries_celia`: data.
+- `analyisis/`:
+    - `final_analyisis.ipynb`: Jupyther Notebook created to analyse data.
+- `data/`: csv with for our analysis
+    - `cleaning_data.ipynb`: Jupyther Notebook to clean our data.
+    - `cleaning_functions.py`: python folder with fuctions
+    - `df_clean_all.csv`: data.
+    - `df_final_demo`: data.
+    - `df_final_experiment_client.txt`: origin data
+    - `df_final_web_data_pt_1.txt`: origin data
+    - `df_final_web_data_pt_2.txt`: origin data
 
-- `original_data/`:
-    - `Sleep_health_and_lifestyle_dataset.csv`.
-    - `mental_health_diagnosis_treatment_.csv`.
+- `graph/`: some graph for our visualization
+
+- `visualization/`:
+    
+  - `date_time_min.pbix`: Power BI folder.
+
+
   
-
-
-  
-- `visualizations/`: Folder with all grahps creates to analyse. All of them have been created in `visualization_df.ipynb` Jupyter Notebook.
-    - `visualization_ana.ipynb`.
-    - `visualization_carlota.ipynb`.
-    - `visualization_celia.ipynb`.
-- `sql_scripts/`:
-    - `miniproject_ironhack_final.sql`.
     - `sql_script_all`: extra sql files.
 
-- `presentation/`: 
-  - `PDF_presentation/`: Folder to store PDF presentations.
+- `presentation/`:  Folder to store PDF presentations.
 - `README.md`: File to describe the project and how to set it up.
-- `EDR_relation_sleep_and_mental_health.PNG`: Entity relational model.
 
 
 ## Project Presentation 🎤
