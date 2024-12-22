@@ -36,7 +36,7 @@ The experiment utilized an A/B testing approach, comparing a control group that 
 
 ## Relevant AB Testing Results in Power BI
 
-![Visualización de Power BI](power-bi-visualization)
+![Visualización de Power BI](power-bi-visualization_g6hRM5BP.mp4)
 
 The Power BI dashboard provides a comprehensive visualization of:
 
